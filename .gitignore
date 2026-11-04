@@ -1,0 +1,7 @@
+node_modules/
+.expo/
+android/
+ios/
+dist/
+*.apk
+uniwind-types.d.ts

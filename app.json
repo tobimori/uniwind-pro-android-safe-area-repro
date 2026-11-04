@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "Uniwind safe area repro",
+    "slug": "uniwind-pro-android-safe-area-repro",
+    "version": "1.0.0",
+    "orientation": "default",
+    "android": {
+      "package": "com.example.uniwindsafearearepro"
+    },
+    "ios": {
+      "bundleIdentifier": "com.example.uniwindsafearearepro"
+    }
+  }
+}
